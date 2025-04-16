@@ -1,0 +1,6 @@
+template-file-path: template.yaml
+parameters:
+  AccountId: 9dd5f815-1dba-4b63-aca5-83c780f844a0
+  SessionToken: '****'
+  WorkspaceName: vip-workspace
+tags: {}
